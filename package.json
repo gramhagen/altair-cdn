@@ -1,0 +1,13 @@
+{
+  "description": "A packaged content delivery network that will automatically create pngs from vega-lite json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramhagen/altair-cdn.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "canvas": "1.5.0",
+    "vega": "2.6.3",
+    "vega-lite": "1.2.0"
+  }
+}
